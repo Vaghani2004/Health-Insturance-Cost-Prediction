@@ -259,9 +259,4 @@ This project provides an **estimated insurance premium based on a Machine Learni
 
 ---
 
-## 👨‍💻 Author
-
-**Vaghani Jil**
-
----
 
